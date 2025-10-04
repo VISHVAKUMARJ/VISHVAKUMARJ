@@ -65,7 +65,7 @@ Integrates **Spring Boot backend** with a **Flask ML model** to generate stock p
 ---
 
 ## 📄 Resume  
-📎 [Download My Resume (PDF)](#)
+📎 [Download My Resume (PDF)](https://github.com/VISHVAKUMARJ/VISHVAKUMARJ/blob/main/Vishvakumar_J_Resume_java.docx)
 
 ---
 
